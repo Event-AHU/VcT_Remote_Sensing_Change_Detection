@@ -47,6 +47,8 @@ python main_cd.py --img_size ${img_size} --checkpoint_root ${checkpoint_root} --
 
 ## Evaluate
 
+Checkpoints of our model can be downloaded from: [[Onedrive](https://www.dropbox.com/scl/fi/bc8thurpi51385m7q3c6u/VcT_checkpoints.zip?rlkey=pzjx52tfomno0y1fv4gmnxu0p&dl=0)]
+
 You can find the evaluation script `eval.sh`. You can run the script file by `sh eval.sh` in the command environment.
 
 The detailed script file `eval.sh` is as follows:
