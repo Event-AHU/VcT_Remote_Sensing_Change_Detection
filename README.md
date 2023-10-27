@@ -88,15 +88,13 @@ Change detection data set with pixel-level binary labels；
 
 
 
-### Data Download 
+### Our Processed Dataset Download 
 
-We will be uploading cropped images
+**LEVIR-CD (2.3GB):** [[DropBox](https://www.dropbox.com/scl/fi/6ug4nxeaj9u4y8f0olixq/LEVIR.zip?rlkey=ikm2a7eju5oi9ffhfxkq5mqr4&dl=0)]
 
-LEVIR-CD: 
+**WHU-CD (1.82GB):** [[DropBox](https://www.dropbox.com/scl/fi/9i4ra8k6g2zn8mpdwibay/WHU.zip?rlkey=5w0c0vsvvrhypsqdspnavfyfa&dl=0)]
 
-WHU-CD: 
-
-DSIFN-CD: 
+**DSIFN-CD (3.38GB):** [[DropBox](https://www.dropbox.com/scl/fi/xc3dor9cc85ev8c7morbp/DSIFN.zip?rlkey=yl69h63qlm96sdcgg2qmlnnx6&dl=0)]
 
 
 
