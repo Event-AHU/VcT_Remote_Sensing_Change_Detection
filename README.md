@@ -69,6 +69,14 @@ checkpoint_name=best_ckpt.pt # the name of evaluated model file
 python eval_cd.py --split ${split} --net_G ${net_G} --checkpoint_name ${checkpoint_name} --gpu_ids ${gpus} --project_name ${project_name} --data_name ${data_name}
 ```
 
+
+
+
+<p align="center">
+  <img src="https://github.com/Event-AHU/VcT_Remote_Sensing_Change_Detection/blob/main/figures/results.png" alt="VcT_samples" width="800"/>
+</p>
+
+
 ## Dataset Preparation
 
 ### Data structure
@@ -99,7 +107,12 @@ Change detection data set with pixel-level binary labels；
 
 **WHU-CD (1.82GB):** [[DropBox](https://www.dropbox.com/scl/fi/9i4ra8k6g2zn8mpdwibay/WHU.zip?rlkey=5w0c0vsvvrhypsqdspnavfyfa&dl=0)]
 
-**DSIFN-CD (3.38GB):** [[DropBox](https://www.dropbox.com/scl/fi/xc3dor9cc85ev8c7morbp/DSIFN.zip?rlkey=yl69h63qlm96sdcgg2qmlnnx6&dl=0)]
+**DSIFN-CD (3.38GB):** [[DropBox](https://www.dropbox.com/scl/fi/xc3dor9cc85ev8c7morbp/DSIFN.zip?rlkey=yl69h63qlm96sdcgg2qmlnnx6&dl=0)] 
+
+
+<p align="center">
+  <img src="https://github.com/Event-AHU/VcT_Remote_Sensing_Change_Detection/blob/main/figures/results_LEVIR_CD_vis.png" alt="VcT_samples" width="800"/>
+</p>
 
 
 
