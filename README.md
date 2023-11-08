@@ -52,7 +52,10 @@ python main_cd.py --img_size ${img_size} --checkpoint_root ${checkpoint_root} --
 
 ## Evaluate
 
-Checkpoints of our model can be downloaded from: [[DropBox](https://www.dropbox.com/scl/fi/bc8thurpi51385m7q3c6u/VcT_checkpoints.zip?rlkey=pzjx52tfomno0y1fv4gmnxu0p&dl=0)]
+Checkpoints of our model can be downloaded from: 
+[[DropBox](https://www.dropbox.com/scl/fi/bc8thurpi51385m7q3c6u/VcT_checkpoints.zip?rlkey=pzjx52tfomno0y1fv4gmnxu0p&dl=0)] or 
+[[Baiduyun (passward: AHUE)](https://pan.baidu.com/s/1Gsy7wivonhaQYzqq9E8Q9A?pwd=AHUE)] 
+
 
 You can find the evaluation script `eval.sh`. You can run the script file by `sh eval.sh` in the command environment.
 
@@ -103,11 +106,17 @@ Change detection data set with pixel-level binary labels；
 
 ### Our Processed Dataset Download 
 
-**LEVIR-CD (2.3GB):** [[DropBox](https://www.dropbox.com/scl/fi/uvp5q311jul5hzrvoivte/LEVIR-CD-256.zip?rlkey=3uahso53jvdmjfvw7fbotwb36&dl=0)]
 
-**WHU-CD (1.82GB):** [[DropBox](https://www.dropbox.com/scl/fi/8gczkg78fh95yofq5bs7p/WHU.zip?rlkey=05bpczx0gdp99hl6o2xr1zvyj&dl=0)]
+**Download method \#1**
+* **LEVIR-CD (2.3GB):** [[DropBox](https://www.dropbox.com/scl/fi/uvp5q311jul5hzrvoivte/LEVIR-CD-256.zip?rlkey=3uahso53jvdmjfvw7fbotwb36&dl=0)]
+* **WHU-CD (1.82GB):** [[DropBox](https://www.dropbox.com/scl/fi/8gczkg78fh95yofq5bs7p/WHU.zip?rlkey=05bpczx0gdp99hl6o2xr1zvyj&dl=0)]
+* **DSIFN-CD (3.38GB):** [[DropBox](https://www.dropbox.com/scl/fi/ydj4u2shjp02n5q249au3/DSIFN.zip?rlkey=e0fa7iekeijos7o5xxbyy6bi4&dl=0)]
 
-**DSIFN-CD (3.38GB):** [[DropBox](https://www.dropbox.com/scl/fi/ydj4u2shjp02n5q249au3/DSIFN.zip?rlkey=e0fa7iekeijos7o5xxbyy6bi4&dl=0)] 
+**Download method \#2**
+* **BaiduYun**: [[Baiduyun (passward: AHUE)](https://pan.baidu.com/s/1z6gCrvtCFxMT05YoBiNL4g?pwd=AHUE)]
+
+
+ 
 
 
 <p align="center">
