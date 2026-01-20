@@ -12,7 +12,7 @@ Here, we provide the pytorch implementation of the paper. For more information, 
 
 
 <p align="center">
-  <img src="https://github.com/Event-AHU/VcT_Remote_Sensing_Change_Detection/blob/main/VcT_Highly%20Cited%20Papers.png" alt="VcT_samples" width="500"/>
+  <img src="https://github.com/Event-AHU/VcT_Remote_Sensing_Change_Detection/blob/main/VcT_Highly%20Cited%20Papers.png" alt="VcT_samples" width="800"/>
 </p>
 
 
