@@ -6,10 +6,25 @@ Here, we provide the pytorch implementation of the paper. For more information, 
 
 
 
+
+
+
+
+
+<p align="center">
+  <img src="https://github.com/Event-AHU/VcT_Remote_Sensing_Change_Detection/blob/main/VcT_Highly%20Cited%20Papers.png" alt="VcT_samples" width="500"/>
+</p>
+
+
+
+
+## Abstract 
+
+Given two remote sensing images, the goal of visual change detection task is to detect significantly changed areas between them. Existing visual change detectors usually adopt convolutional neural networks (CNNs) or transformers for feature representation learning and focus on learning effective representation for the changed regions between images. Although good performance can be obtained by enhancing the features of the change regions, however, these works are still limited mainly due to the ignorance of mining the unchanged background context information. It is known that one main challenge for change detection is how to obtain the consistent representations for two images involving different variations, such as spatial variation and sunlight intensity. In this work, we demonstrate that carefully mining the common background information provides an important cue to learn the consistent representations for the two images which thus obviously facilitates the visual change detection problem. Based on this observation, we propose a novel visual change transformer (VcT) model for visual change detection problem. To be specific, a shared backbone network is first used to extract the feature maps for the given image pair. Then, each pixel of feature map is regarded as a graph node and the graph neural network (GNN) is proposed to model the structured information for coarse change map prediction. Top-K reliable tokens can be mined from the map and refined by using the clustering algorithm. Then, these reliable tokens are enhanced by first utilizing self/cross-attention (CA) schemes and then interacting with original features via an anchor-primary attention (APA) learning module. Finally, the prediction head is proposed to get a more accurate change map. Extensive experiments on multiple benchmark datasets validated the effectiveness of our proposed VcT model. 
+
 <p align="center">
   <img src="https://github.com/Event-AHU/VcT_Remote_Sensing_Change_Detection/blob/main/VcT_code/framework/framework.jpg" alt="VcT_samples" width="800"/>
 </p>
-
 
 
 ## Requirements
